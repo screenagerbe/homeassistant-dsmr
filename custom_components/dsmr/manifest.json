@@ -1,12 +1,12 @@
 {
   "domain": "dsmr",
   "name": "DSMR Slimme Meter",
-  "codeowners": ["@dupondje"],
+  "codeowners": ["@dupondje","@screenagerbe"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/dsmr",
   "integration_type": "hub",
   "iot_class": "local_push",
   "loggers": ["dsmr_parser"],
   "requirements": ["dsmr-parser==1.2.3"],
-  "version": "1.0.5"
+  "version": "1.0.6"
 }
