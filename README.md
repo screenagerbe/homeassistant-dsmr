@@ -6,4 +6,4 @@ As we want to get improvements/changes quicker into HA.
 __Changelog__
 
 **v1.0.6 (2023-08-02)**
-* update dsmr-parser to v1.3.0
+* update dsmr-parser to v1.2.4
